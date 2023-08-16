@@ -5,7 +5,7 @@
 
 En este proyecto se nos encargó la tarea de tomar el rol de un analista de datos en una empresa que se dedica a la inversión de capitales, últimamente esta empresa se interesó en la inversión en criptomonedas asique nos delegó la responsabilidad de realizar las investigaciones y el análisis pertinente. siguiendo este lineamiento me enfoqué en llevar este proyecto en un lineamiento claro, realizar inversiones que generen ganancias, pero también realizar inversiones que nos permitan mantener nuestro capital con un bajo riesgo, ya entrando en eso, nos vamos al EDA.
 
-# ADE
+# DEA
 
 En esta parte comencé indagando en algunas páginas, ya que mi conocimiento en inversiones no es muy bueno, y encontré dicho que una moneda es confiable cuando tiene una mayor capitalización de mercado, ya que significa que tiene un alto respaldo de los inversionistas. Ya con este conocimiento me decidí a analizar las 12 monedas con mayor capitalización del mercado para elegir en cuales hacer inversiones serias.
 
